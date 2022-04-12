@@ -2,7 +2,7 @@
     "env": {
         "MONGO_USER": "huriza-22",
         "MONGO_PASSWORD": "XcEM7Wbv9pJhzJP",
-        "MONGO_DEFAULT_DATABASE": "shop",
-        "STRIPE_KEY": "sk_test_T8OE02SHDZWLwk4TYtrWlsat"
+        "MONGO_DEFAULT_DATABASE": "myFirstDatabase",
+        "STRIPE_KEY": "sk_test_51KncRALMUwFd32pYD1XlTgiSAU3OT6cAUtJlLToJpjSaPpqR2eVV2WMUmGYiBwBiJ3IsuTuVHHWmODAqIQdzaIIl00Hk77MwaC"
     }
 }
